@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkclient"]=self["webpackChunkclient"]||[]).push([[74],{5517:function(t,n,s){s.r(n),s.d(n,{default:function(){return r}});var i=s(2118),e=function(){var t=this,n=t._self._c;return n("div",{staticClass:"about"},[n(i.Z,{staticClass:"mt-5"},[n("p",[t._v(" This application contains the list of Beneficiaries across Region 5. ")])])],1)},l=[],a=s(1001),c={},u=(0,a.Z)(c,e,l,!1,null,null,null),r=u.exports}}]);
+//# sourceMappingURL=About.e9f84e4a.js.map
